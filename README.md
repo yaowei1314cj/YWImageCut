@@ -4,3 +4,4 @@
 [[YWCommenTool pushToVC:[self viewController]] letImageCut:^(UIImage *image) {   
     //  获取到裁剪之后的图片。
 }];
+#666
